@@ -1,0 +1,7 @@
+build
+__pycache__
+dist
+*__pycache__*
+beam_analyzer/ui/tabs/__pycache__/
+beam_analyzer/ui/__pycache__/
+beam_analyzer/core/__pycache__/
