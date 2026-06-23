@@ -7,6 +7,7 @@ Check the distributions for a standalone version for windows built with pyinstal
 ## Features
 
 1. **STEP Import & Slicing**: Load a STEP file and slice it into cross-sections along the X axis. The number and position of sections can be adjusted numerically or by dragging station lines on the side view.
+![side view of slicing](image.png)
 
 2. **Section Properties**: For each cross-section, computes:
    - Area
@@ -14,6 +15,7 @@ Check the distributions for a standalone version for windows built with pyinstal
    - Second moments of inertia (Iyy, Izz, Iyz)
    - Principal moments (I1, I2) and angle
    - Extreme coordinates relative to centroid (Y_max, Y_min, Z_max, Z_min)
+![results view](image-1.png)
 
 3. **Shear Stress** (Shear tab): Define supports and applied loads (point loads,
    distributed loads, point moments) on a determinate beam. The app builds the
