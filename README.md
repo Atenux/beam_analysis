@@ -1,6 +1,8 @@
 # Beam Analyzer
 
-A desktop application for beam cross-section analysis from STEP (CAD) files.
+A desktop application for beam cross-section analysis from STEP (CAD) files. 
+Mostly vibecoded but working and checked against CAD software.
+Check the distributions for a standalone version for windows built with pyinstaller
 
 ## Features
 
